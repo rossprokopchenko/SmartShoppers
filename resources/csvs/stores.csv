@@ -1,0 +1,4 @@
+id,name,address,categories,density,openingHours,closingHours
+0,NoFrill,"1911 Steeles Ave W, North York, ON","0,1,2,3,4,5",15,8:00 AM,17:00 PM
+1,FreesCo,"3925 Jane St, North York, ON",0,20,9:00 AM,17:00 PM
+2,LCBO,Steeles / Dufferin,5,10,9:00 AM,17:00 PM

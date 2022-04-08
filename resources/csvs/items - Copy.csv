@@ -1,0 +1,37 @@
+id,name,inventory,availability,price,description,size,onSale,store,imagePath
+0,Apple,10,TRUE,4.55,delicious apple (already sliced of course),300,FALSE,"0,1",resources/itemImages/apple.png
+1,Cucumber,10,TRUE,4,,300,FALSE,0,resources/itemImages/cucumber.png
+2,Banana,10,TRUE,3,monky eat banana,300,TRUE,"0,1",resources/itemImages/banana.png
+3,Tomato,10,TRUE,3.5,,300,FALSE,0,resources/itemImages/tomato.png
+5,Onion,10,TRUE,3.3,,300,FALSE,0,resources/itemImages/onion.png
+6,Spinach,10,TRUE,3.99,popeye's favourite,300,FALSE,0,resources/itemImages/spinach.png
+7,Peas,10,TRUE,3,,300,FALSE,0,resources/itemImages/peas.png
+8,Carrots,10,TRUE,4,,300,FALSE,0,resources/itemImages/carrots.png
+9,Mango,10,TRUE,1.69,,300,FALSE,0,resources/itemImages/mango.png
+10,Pineapple,10,TRUE,3,"ahoy spongebob, its time for work",300,FALSE,0,resources/itemImages/pineapple.png
+11,Melona Bars,10,TRUE,3,,300,FALSE,0,resources/itemImages/melona.jpg
+12,Ice Cream,10,TRUE,6.99,,300,FALSE,0,resources/itemImages/iceCream.png
+13,French Fries,10,TRUE,3.99,image looks too much like mcdonalds doesn't it?,300,FALSE,0,resources/itemImages/fries.png
+14,Perogies,10,TRUE,69,slava ukraini,300,FALSE,0,resources/itemImages/pierogies.png
+16,Chickpeas,10,TRUE,3.5,,300,FALSE,0,resources/itemImages/chickpeas.png
+17,Ritz Crackers,10,TRUE,2.5,,300,FALSE,0,resources/itemImages/ritz.png
+18,Peanuts,10,TRUE,7,,300,FALSE,0,resources/itemImages/peanuts.png
+19,Noodles,10,TRUE,0.99,the student special,300,FALSE,0,resources/itemImages/noodles.png
+20,Trojan Condoms,10,TRUE,12.38,plan A (hopefully),300,FALSE,0,resources/itemImages/trojanCondoms.png
+21,Shaving Cream,10,TRUE,3,,300,FALSE,0,resources/itemImages/shavingCream.png
+22,Advil,10,TRUE,8.88,,300,FALSE,0,resources/itemImages/advil.png
+23,Plan B,10,TRUE,50,in case plan A didn't work,300,FALSE,0,resources/itemImages/planB.png
+24,Goat Cheese,10,TRUE,13,,300,FALSE,0,resources/itemImages/goatCheese.png
+25,Almond Milk,10,TRUE,3.99,,300,FALSE,0,resources/itemImages/almondMilk.png
+26,Eggs,10,TRUE,3.29,,300,FALSE,0,resources/itemImages/eggs.png
+27,Cheese Strings,10,TRUE,5.99,,300,FALSE,0,resources/itemImages/cheeseString.png
+28,Quiche,10,TRUE,1.28,,300,FALSE,0,resources/itemImages/quiche.png
+29,Chorizo,10,TRUE,7,what's the difference between this and sausages?,300,FALSE,0,resources/itemImages/chorizo.png
+30,Sausages,10,TRUE,8,,300,FALSE,0,resources/itemImages/sausages.png
+31,Hot Dogs,10,TRUE,3.34,,300,FALSE,0,resources/itemImages/hotDogs.png
+32,Steak,10,TRUE,24,mmmmm better not cook it well done,300,FALSE,0,resources/itemImages/steak.png
+33,Chicken Feet,10,TRUE,10,,300,FALSE,0,resources/itemImages/chickenFeet.png
+34,Bull Testicles,10,TRUE,69.69,yummy,300,FALSE,0,resources/itemImages/bullTesties.jpg
+35,Chicken Breast,10,TRUE,20,only comes in two (shoutout Walmart),300,FALSE,0,resources/itemImages/chickenBreast.png
+36,Garlic,3,TRUE,1.23,gets rid of vampires,100,FALSE,0,resources/itemImages/question.png
+37,Grapes,5,TRUE,3.33,,355,FALSE,0,resources/itemImages/question.png
